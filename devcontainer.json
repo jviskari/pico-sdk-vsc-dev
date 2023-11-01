@@ -1,0 +1,15 @@
+{
+    "name": "pico-sdk",
+    "dockerFile": "Dockerfile",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+        "ms-vscode.cpptools",
+        "ms-vscode.cpptools-extension-pack"
+        "twxs.cmake",
+        "ms-vscode.cmake-tools",
+        "ms-python.python"
+
+    ]
+}
